@@ -2,5 +2,7 @@
   "name": "آکادمی هوش مصنوعی شهزاد قنبری",
   "description": "وبسایت مدرن آکادمی شهزاد قنبری برای آموزش تخصصی هوش مصنوعی، برنامه‌نویسی و مهارت‌های دیجیتال",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
